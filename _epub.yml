@@ -1,0 +1,8 @@
+epub:
+  title: "The REST Cookbook"
+  name: "The REST Cookbook"
+  creator: "The internet"
+  description: "The REST Cookbook"
+  source: "http://restcookbook.com"
+  lang: en
+exclude: [ README.md ]
